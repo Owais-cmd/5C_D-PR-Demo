@@ -1,4 +1,4 @@
-Hello There
-
-alke
-xsnk
+Line 1 content
+Line 2 content
+Line 4 content
+... (rest of the file without line 3)
